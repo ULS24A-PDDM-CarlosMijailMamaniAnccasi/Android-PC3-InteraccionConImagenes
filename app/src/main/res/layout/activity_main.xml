@@ -18,7 +18,10 @@
         android:hint="@string/txt_custom"
         android:inputType="text" />
 
-
-
+    <ImageButton
+        android:id="@+id/imgb_main"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/img_toca_aqui" />
 
 </LinearLayout>
